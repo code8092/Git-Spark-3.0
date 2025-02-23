@@ -3,7 +3,7 @@ class Spark{
         System.out.println("m1");
     }
     public static void notifyUser() {
-        System.out.println("Hello User");
+        System.out.println("Hii notify");
     }
     public static void auth() {
         System.out.println("Authentication");
