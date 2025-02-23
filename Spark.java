@@ -5,6 +5,9 @@ class Spark{
     public static void notifyUser() {
         System.out.println("Hello User");
     }
+    public static void auth() {
+        System.out.println("Authentication");
+    }
     public static void main(String[] args){
         System.out.println("Hello");
     }
